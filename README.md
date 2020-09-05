@@ -35,10 +35,10 @@ Nested Lists:
    - second line of first nested list
      - first line of second nested list
 
-[] push my commits to github
+- [ ] push my commits to github
 
-[] open a pull request
+- [ ] open a pull request
 
-[X] finish my changes
+- [X] finish my changes
 
 This is my demo project
